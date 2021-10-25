@@ -1,6 +1,9 @@
-![Hero Banner](https://github.com/narimanadam/narimanadam/blob/main/imgs/hero-banner.png)
+![Hero Banner](https://raw.githubusercontent.com/narimanadam/narimanadam/main/imgs/hero-banner.jpeg)
 
-I love learning anything related to Front End Development and Developing Awesome Web Applications :blush:, I am currently based in Dubai, United Arab Emirates.
+I’m passionate about learning and exploring everything related to **Front-End Development** and building **awesome, user-friendly web applications** 😊.
+
+Currently based in **Dubai, United Arab Emirates 🇦🇪**, I’m always learning, experimenting with new technologies, and working on projects that help me grow as a developer.
+
 
 ![github profile views](https://komarev.com/ghpvc/?username=narimanadam&style=flat-square)
 ![github followers](https://img.shields.io/github/followers/narimanadam?label=Followers&logo=github&style=flat-square)
@@ -28,7 +31,7 @@ I love learning anything related to Front End Development and Developing Awesome
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/narimanadam/)
 [![Github](https://img.shields.io/badge/-github-242a2e?logo=github&logoColor=white&style=flat)](https://github.com/narimanadam)
-[![Medium](https://img.shields.io/badge/-medium-02b875?logo=medium&logoColor=white&style=flat)](https://medium.com/@narimanadam_73540)
+[![Medium](https://img.shields.io/badge/-medium-02b875?logo=medium&logoColor=white&style=flat)](https://narimanadaam.medium.com/)
 [![Twitter](https://img.shields.io/badge/-twitter-55acee?logo=twitter&logoColor=white&style=flat)](https://twitter.com/NarimanAdam)
 
 
