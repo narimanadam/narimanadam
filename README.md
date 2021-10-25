@@ -28,7 +28,7 @@ I love learning anything related to Front End Development and Developing Awesome
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/narimanadam/)
 [![Github](https://img.shields.io/badge/-github-242a2e?logo=github&logoColor=white&style=flat)](https://github.com/narimanadam)
-[![Medium](https://img.shields.io/badge/-medium-02b875?logo=medium&logoColor=white&style=flat)](https://medium.com/@narimanadam_73540)
+[![Medium](https://img.shields.io/badge/-medium-02b875?logo=medium&logoColor=white&style=flat)](https://narimanadaam.medium.com/)
 [![Twitter](https://img.shields.io/badge/-twitter-55acee?logo=twitter&logoColor=white&style=flat)](https://twitter.com/NarimanAdam)
 
 
