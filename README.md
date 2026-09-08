@@ -7,7 +7,7 @@ Currently based in **Dubai, United Arab Emirates 🇦🇪**, I’m always learni
 
 ![github profile views](https://komarev.com/ghpvc/?username=narimanadam&style=flat-square)
 ![github followers](https://img.shields.io/github/followers/narimanadam?label=Followers&logo=github&style=flat-square)
-![twitter followers](https://img.shields.io/twitter/follow/NarimanAdam?color=2080c0&label=Followers&logo=twitter&logoColor=fff&style=flat-square)
+[![Medium Followers](https://img.shields.io/badge/Medium-35%20Followers-000000?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@narimanadaam)
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
